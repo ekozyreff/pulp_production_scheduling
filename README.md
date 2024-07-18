@@ -32,7 +32,8 @@ In a real scenario, the number of SKUs is around 20, and the number of days can 
 
 This project contributed to the company in a number of aspects:
 
-maximum fulfillment of the demand
-minimization of the number of production batches
-huge reduction of the analyst's workload (before, planning was done manually by trial and error on a spreadsheet)
+- maximum fulfillment of the demand
+- minimization of the number of production batches
+- huge reduction of the analyst's workload (before, planning was done manually by trial and error on a spreadsheet)
+
 The tool is used on a weekly basis to plan the production of around 40,000 tons of cellulose pulp monthly.
